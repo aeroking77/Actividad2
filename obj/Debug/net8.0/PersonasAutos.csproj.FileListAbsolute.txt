@@ -170,3 +170,4 @@ C:\Users\Antonio\Documents\Cursos .NET\netAR2501\semana3\PersonasAutos\PersonasA
 C:\Users\Antonio\Documents\Cursos .NET\netAR2501\semana3\PersonasAutos\PersonasAutos\obj\Debug\net8.0\PersonasAutos.pdb
 C:\Users\Antonio\Documents\Cursos .NET\netAR2501\semana3\PersonasAutos\PersonasAutos\obj\Debug\net8.0\PersonasAutos.genruntimeconfig.cache
 C:\Users\Antonio\Documents\Cursos .NET\netAR2501\semana3\PersonasAutos\PersonasAutos\obj\Debug\net8.0\ref\PersonasAutos.dll
+C:\Users\Antonio\Documents\Cursos .NET\netAR2501\semana3\PersonasAutos\PersonasAutos\obj\Debug\net8.0\PersonasAutos.sourcelink.json

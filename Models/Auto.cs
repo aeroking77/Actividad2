@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using System;
 using System.Collections.Generic;
 
 namespace PersonasAutos.Models;
@@ -24,4 +25,5 @@ public partial class Auto
     public string? CurpPersona { get; set; }
 
     public virtual Persona? CurpPersonaNavigation { get; set; }
+
 }
